@@ -1,6 +1,6 @@
 const fs = require('fs');
 const Mustache = require('mustache');
-const stripHtmlComments = require('strip-html-comments');
+// const stripHtmlComments = require('strip-html-comments');
 
 let data = {
   name: 'Carl',
@@ -19,9 +19,8 @@ let data = {
 function generateReadmeFile() {
   fs.readFile('./template.mustache', (err, content) => {
     if (err) throw err;
-    let output;
     // Render template
-    output = Mustache.render(content.toString(), data);
+    let output = Mustache.render(content.toString(), data);
     // Remove HTML comments (not used)
     // output = stripHtmlComments(output);
     // Write to file
