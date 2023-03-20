@@ -1,4 +1,4 @@
-# https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#scheduled-events 
+# https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#scheduled-events
 name: README build
 
 on:
@@ -15,10 +15,10 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v1
-      - name: Setup NodeJs 13
+      - name: Setup NodeJs 14
         uses: actions/setup-node@v1
         with:
-          node-version: '13.x'
+          node-version: '14'
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
