@@ -30,5 +30,3 @@ function generateReadmeFile() {
 }
 
 generateReadmeFile();
-
-// test
