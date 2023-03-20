@@ -22,8 +22,8 @@ function generateReadmeFile() {
     let output;
     // Render template
     output = Mustache.render(content.toString(), data);
-    // Remove HTML comments
-    output = stripHtmlComments(output);
+    // Remove HTML comments (not used)
+    // output = stripHtmlComments(output);
     // Write to file
     fs.writeFileSync('README.md', output);
   });

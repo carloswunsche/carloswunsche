@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "mustache": "^4.2.0",
-    "strip-html-comments": "^1.0.0"
+    "mustache": "^4.2.0"
   }
 }
