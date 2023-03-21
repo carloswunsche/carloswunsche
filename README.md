@@ -72,13 +72,13 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
 </details>
 
 <details> 
-  <summary><h2>🤔 More about me</h2></summary>
+  <summary><h2>👨🏻‍🚀 More about me</h2></summary>
 
 ```javascript
 const carl = {
   pronouns: 'he' | 'him',
   code: [Javascript, Typescript, HTML, CSS, Nunjucks, Python],
-  tools: [React, MongoDB, MaterialUI, Jest],
+  tools: [React, MongoDB, MaterialUI],
   architecture: ['mvc', ...moreToCome],
   challenge:
     'I want to build my own game engine on JavaScript before 2024',
