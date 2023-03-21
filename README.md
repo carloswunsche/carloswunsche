@@ -7,7 +7,7 @@
 Welcome to my profile! I'm a front-end dev, aspiring full-time programmer, part-time musician and never-ending dreamer. I'm currently located in Miami, FL. Feel free to contact me for any opportunities or inquiries.
 
 
-- 🔭 I&#39;m looking for new career opportunities.
+- 🔭 Currently looking for new career opportunities.
 - 🌱 Also learning about serverless architectures, Svelte, and GraphQL.
 - 💬 Ping me about how to create cool stuff using only vanilla JS.
 - 👯 I’m looking to collaborate with other video artists and sound designers.
