@@ -12,7 +12,7 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
 - 👯 I’m looking to collaborate with other digital artists and sound designers.
 - 🥅 2023 goal: Leverage my skills towards meaningful work!
 - 📝 I regulary write articles on my blog *(which is not public yet...)*.
-- 🧐 Fun fact: Today is Monday, March 20 *(powered by Github Actions)*.
+- 🧐 Fun fact: Today is Tuesday, March 21 *(powered by Github Actions)*.
 
 
 ## Let's get social
