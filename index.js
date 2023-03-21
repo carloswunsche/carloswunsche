@@ -5,7 +5,7 @@ const Mustache = require('mustache');
 let data = {
   date: new Date(),
   ipaName: `/ˈkɑrloʊs ˈvʏnʃə/`,
-  job: `I'm open to work opportunities.`,
+  job: `I'm looking for new career opportunities.`,
 };
 data.dateString = data.date.toLocaleDateString('en-US', {
   weekday: 'long',
