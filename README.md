@@ -8,7 +8,7 @@ Welcome to my profile! I'm a front-end dev, aspiring full-time programmer, part-
 
 
 - 🔭 Currently looking for new career opportunities.
-- 🌱 Also learning about serverless architectures, Svelte, and GraphQL.
+- 🌱 Interested in serverless architectures, Svelte, and GraphQL.
 - 💬 Ping me about how to create cool stuff using only vanilla JS.
 - 👯 I’m looking to collaborate with other video artists and sound designers.
 - 🥅 2023 goal: To leverage my skills towards meaningful, creative work!
