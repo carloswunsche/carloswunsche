@@ -1,4 +1,4 @@
-# Nice to see you!👨🏻‍💻
+# Hey, nice to see you!👨🏻‍💻
 
 > **Pronunciation:** [&#x2F;ˈkɑrloʊs ˈvʏnʃə&#x2F;](http://ipa-reader.xyz/?text=%CB%88k%C9%91rlo%CA%8As%20%CB%88v%CA%8Fn%CA%83%C9%99&voice=Joey)
 
@@ -9,17 +9,18 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
 - 🔭 I&#39;m open to work opportunities.
 - 🌱 I'm learning about serverless architectures, Svelte, and GraphQL.
 - 💬 Ping me about how to create cool stuff using only vanilla JS.
-- 👯 I’m looking to collaborate with other digital artists and sound designers.
-- 🥅 2023 goal: Leverage my skills towards meaningful work!
+- 👯 I’m looking to collaborate with other video artists and sound designers.
+- 🥅 2023 goal: Leverage my knowledge towards meaningful work!
 - 📝 I regulary write articles on my blog *(which is not public yet...)*.
-- 🧐 Fun fact: Today is Tuesday, March 21 *(powered by Github Actions)*.
+- 🧐 Fun fact: Today is Monday, March 20 *(powered by Github Actions)*.
 
 
-## Let's get social
-<a href="https://linkedin.com/in/carloswunsche"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+## Let's get social!
+<a href="https://linkedin.com/in/carloswunsche"><img alt="LinkedIn" src="https://img.shields.io/badge/carloswunsche-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/carloswunsche"><img alt="Github Follow me button" src="https://img.shields.io/github/followers/carloswunsche.svg?style=social&label=Follow&maxAge=2592000"/></a>
 
 <details> 
-  <summary><h2>🛠️ My favorite tools</h2></summary>
+  <summary><h2>My favorite tools</h2></summary>
 
   <h3>Programming languages</h3>
   <p>
@@ -72,13 +73,13 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
 </details>
 
 <details> 
-  <summary><h2>🤔 More about me</h2></summary>
+  <summary><h2>More about me</h2></summary>
 
 ```javascript
 const carl = {
   pronouns: 'he' | 'him',
   code: [Javascript, Typescript, HTML, CSS, Nunjucks, Python],
-  tools: [React, MongoDB, MaterialUI, Jest],
+  tools: [React, MongoDB, MaterialUI],
   architecture: ['mvc', ...moreToCome],
   challenge:
     'I want to build my own game engine on JavaScript before 2024',
