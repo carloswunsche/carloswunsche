@@ -19,7 +19,7 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
 <a href="https://linkedin.com/in/carloswunsche"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ My favorite tools</h2></summary>
 
   <h3>Programming and Markup Languages</h3>
   <p>
