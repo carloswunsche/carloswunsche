@@ -21,7 +21,7 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
 <details> 
   <summary><h2>🛠️ My favorite tools</h2></summary>
 
-  <h3>Programming and Markup Languages</h3>
+  <h3>Programming languages</h3>
   <p>
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -35,7 +35,7 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
 
-  <h3>Frameworks and Libraries</h3>
+  <h3>Frameworks and libraries</h3>
   <p>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -44,7 +44,7 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
       <a href="#"><img alt="p5.js" src="https://img.shields.io/badge/p5.js-ED225D?logo=p5dotjs&logoColor=white"></a>
   </p>
 
-  <h3>Databases and Cloud Hosting</h3>
+  <h3>Databases and cloud hosting</h3>
   <p>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -54,7 +54,7 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   </p>
 
-  <h3>Software and Tools</h3>
+  <h3>Software and tools</h3>
   <p>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
