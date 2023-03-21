@@ -11,13 +11,14 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
 - 💬 Ping me about how to create cool stuff using only vanilla JS.
 - 👯 I’m looking to collaborate with other video artists and sound designers.
 - 🥅 2023 goal: Leverage my knowledge towards meaningful work!
-- 📝 I regulary write articles on my blog *(which is not public yet...)*.
-- 🧐 Fun fact: Today is Monday, March 20 *(powered by Github Actions)*.
+<!-- - 🧐 Fun fact: Today is Monday, March 20 *(powered by Github Actions)*. -->
 
-## Let's get social!
+<details open> 
+  <summary><h2>Let's get social!</h2></summary>
 <a href="https://linkedin.com/in/carloswunsche"><img alt="LinkedIn" src="https://img.shields.io/badge/carloswunsche-0077B5?logo=linkedin&logoColor=white"/></a>
 <a href="https://linkedin.com/in/carloswunsche"><img alt="Github Follow me button" src="https://img.shields.io/github/followers/carloswunsche.svg?style=social&label=Follow&maxAge=2592000"/></a>
 
+</details>
 <details> 
   <summary><h2>My favorite tools</h2></summary>
 
@@ -67,6 +68,7 @@ Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Ableton Live" src="https://img.shields.io/badge/Ableton%20Live-000?logo=abletonlive&logoColor=white"></a>
 
+
   </p>
 </details>
 
@@ -79,8 +81,10 @@ const carl = {
   code: [Javascript, Typescript, HTML, CSS, Nunjucks, Python],
   tools: [React, MongoDB, MaterialUI],
   architecture: ['mvc', ...moreToCome],
-  challenge: 'I want to build my own game engine on JavaScript before 2024',
+  challenge:
+    'I want to build my own game engine on JavaScript before 2024',
 };
 ```
-
 </details>
+
+
