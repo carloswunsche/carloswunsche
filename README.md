@@ -8,7 +8,7 @@ Welcome to my profile! I'm a front-end dev, aspiring full-time programmer, part-
 
 
 - 🔭 I&#39;m looking for new career opportunities.
-- 🌱 I'm learning about serverless architectures, Svelte, and GraphQL.
+- 🌱 Also learning about serverless architectures, Svelte, and GraphQL.
 - 💬 Ping me about how to create cool stuff using only vanilla JS.
 - 👯 I’m looking to collaborate with other video artists and sound designers.
 - 🥅 2023 goal: To leverage my skills towards meaningful, creative work!
@@ -79,11 +79,11 @@ Welcome to my profile! I'm a front-end dev, aspiring full-time programmer, part-
 ```javascript
 const carl = {
   pronouns: 'he' | 'him',
-  code: [Javascript, Typescript, HTML, CSS, Nunjucks, Python],
+  code: [Javascript, Typescript, HTML, CSS, Nunjucks],
   tools: [React, MongoDB, MaterialUI],
   architecture: ['mvc', ...moreToCome],
   challenge:
-    'I want to build my own game engine on JavaScript before 2024',
+    'Build my own game engine using vanilla JS before 2024',
 };
 ```
 </details>
