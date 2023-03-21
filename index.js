@@ -3,18 +3,20 @@ const Mustache = require('mustache');
 // const stripHtmlComments = require('strip-html-comments');
 
 let data = {
-  name: 'Carl',
-  date: new Date().toLocaleDateString('en-US', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZoneName: 'short',
-    timeZone: 'America/New_York',
-  }),
-  ipaName: '/ˈkɑrloʊs ˈvʏnʃə/',
+  date: new Date(),
+  ipaName: `/ˈkɑrloʊs ˈvʏnʃə/`,
+  job: `I'm open to work opportunities.`,
 };
+data.dateString = data.date.toLocaleDateString('en-US', {
+  weekday: 'long',
+  month: 'long',
+  day: 'numeric',
+  // hour: 'numeric',
+  // minute: 'numeric',
+  // timeZoneName: 'short',
+  // timeZone: 'America/New_York',
+});
+data.year = data.date.getFullYear();
 
 function generateReadmeFile() {
   fs.readFile('./template.mustache', (err, content) => {
