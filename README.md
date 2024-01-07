@@ -12,7 +12,7 @@ Welcome to my profile! I'm a front-end dev, aspiring full-time programmer, part-
 - 💬 Ping me about how to create cool stuff using only vanilla JS.
 - 👯 I’m looking to collaborate with other video artists and sound designers.
 - 🥅 2024 goal: To leverage my skills towards meaningful, creative work!
-<!-- - 🧐 Fun fact: Today is Saturday, January 6 *(powered by Github Actions)*. -->
+<!-- - 🧐 Fun fact: Today is Sunday, January 7 *(powered by Github Actions)*. -->
 
 <details open> 
   <summary><h2>Let's get in contact</h2></summary>
