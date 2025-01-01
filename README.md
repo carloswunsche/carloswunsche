@@ -11,8 +11,8 @@ Welcome to my profile! I'm a front-end dev, aspiring full-time programmer, part-
 - 🌱 Interested in serverless architectures, Svelte, and GraphQL.
 - 💬 Ping me about how to create cool stuff using only vanilla JS.
 - 👯 I’m looking to collaborate with other video artists and sound designers.
-- 🥅 2024 goal: To leverage my skills towards meaningful, creative work!
-<!-- - 🧐 Fun fact: Today is Tuesday, December 31 *(powered by Github Actions)*. -->
+- 🥅 2025 goal: To leverage my skills towards meaningful, creative work!
+<!-- - 🧐 Fun fact: Today is Wednesday, January 1 *(powered by Github Actions)*. -->
 
 <details open> 
   <summary><h2>Let's get in contact</h2></summary>
